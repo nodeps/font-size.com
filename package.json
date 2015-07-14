@@ -1,0 +1,29 @@
+{
+  "name": "nodeserver",
+  "version": "0.5.3",
+  "description": "A server plugin for gulp",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-connect": "*",
+    "gulp-open": "*"
+    
+  }
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodeps/nodeserver.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "replace"
+  ],
+  "author": "bruce.wang <37991842@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodeps/nodeserver/issues"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
