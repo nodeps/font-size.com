@@ -4,7 +4,7 @@ var gulp = require('gulp'),
 	open = require('gulp-open'),
 	os = require('os'),
 	port = 8080,//服务器端口
-	path = './唯品会360',//web文件目录
+	path = './',//web文件目录
 	IPv4 = '127.0.0.1'//本机Ip
  
 //获取本机Ip
